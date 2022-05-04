@@ -4,6 +4,7 @@ This repository holds community health files and templates for Calibre’s open 
 ## ✅ What’s in this repository
 
 ### Code of Conduct
+The `CODE_OF_CONDUCT` is a critical document outlining our standards and responsibilities in maintaining a safe and inclusive spaces for everyone involved. We use [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant) to communicate the community values and rules. **All of our repositories should have a Code of Conduct.**
 
 ### Contribution Guidelines
 We use the `CONTRIBUTING` file to set expectations on how people should contribute to our open source projects. Following the contribution guidelines makes it easier for owners to review issues and pull requests. For contributors, following the guidelines helps avoid improperly created pull requests or issues, so they can get help or review faster.
