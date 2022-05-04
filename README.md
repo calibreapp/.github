@@ -11,6 +11,10 @@ We use the `CONTRIBUTING` file to set expectations on how people should contribu
 🖇 [Learn more about `CONTRIBUTING`](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 
 ### Security Guidelines
+The `SECURITY` file outlines our approach to handling security issues in any of our open source repositories. With a clear disclosure policy, we can triage and respond to vulnerability reports as quickly as possible.
+
+🖇 [Learn more about `SECURITY`](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
+
 ### Pull Request Template
 ### Issue Templates
 
