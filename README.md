@@ -16,7 +16,10 @@ The `SECURITY` file outlines our approach to handling security issues in any of 
 
 🖇 [Learn more about `SECURITY`](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
 
-### Pull Request Template
+### Pull Request Templates
+We use pull requests to introduce changes in all of our projects. We’ve set up two templates depending on whether the project is private (`pull_request_template_private.md`) or open source (`pull_request_template_oss.md`).
+
+> ⚠️ To use the template, you will have to adjust the name to be `PULL_REQUEST_TEMPLATE.md`.
 
 ### Issue Templates
 We use GitHub’s issue tracking in our open source projects. We’ve set up two templates in `ISSUE_TEMPLATE` folder to make creating issues (`--bug-report.md`) and feature requests (`--feature-request.md`) easier. When someone opens a new issue, they will be able to choose the option that feels right:
