@@ -14,6 +14,5 @@ Because we believe in paying it forward, we actively work on building tools to b
 
 We also contribute to existing tools, such as [Google Lighthouse](https://github.com/GoogleChrome/lighthouse) or [Chrome HAR](https://github.com/sitespeedio/chrome-har). Beyond GitHub, we run 📬 [a fortnightly page speed newsletter](https://perf.email/) and regularly publish 📝 [high-quality content about speed](https://calibreapp.com/blog/category/web-performance).
 
-
 ### 🙌🏻 Want to join us?
 We’re currently hiring developers—if you value a supportive work environment with interesting technical challenges and code ownership, check out 📢 [our current open positions](https://calibreapp.com/careers) for more details! We’d love to get to know you.
