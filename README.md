@@ -15,6 +15,8 @@ This repository holds community health files and templates for Calibre’s open 
 ## Code of Conduct
 The `CODE_OF_CONDUCT` is a critical document outlining our standards and responsibilities in maintaining safe and inclusive spaces for everyone involved. We use [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant) to communicate the community values and rules. **All of our open source repositories should have a Code of Conduct.**
 
+🖇 [Learn more about `CODE_OF_CONDUCT`](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
+
 ## Contribution Guidelines
 We use the `CONTRIBUTING` file to set expectations on how people should contribute to our open source projects. Following the contribution guidelines makes it easier for owners to review issues and pull requests. For contributors, following the guidelines helps avoid improperly created pull requests or issues, so they can get help or review faster. **All of our open source repositories should have a Contributing guide.**
 
@@ -29,6 +31,8 @@ The `SECURITY` file outlines our approach to handling security issues in any of 
 We use pull requests to introduce changes in all of our projects. We’ve set up two templates depending on whether the project is private (`pull_request_template_private.md`) or open source (`pull_request_template_oss.md`).
 
 > ⚠️ To use the template, you will have to adjust the name to be `PULL_REQUEST_TEMPLATE.md`.
+
+🖇 [Learn more about `PULL_REQUEST_TEMPLATES`](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates#pull-request-templates)
 
 ## Issue Templates
 We use GitHub’s issue tracking in our open source projects. We’ve set up two templates in `ISSUE_TEMPLATE` folder to make creating issues (`--bug-report.md`) and feature requests (`--feature-request.md`) easier. When someone opens a new issue, they will be able to choose the option that feels right:
