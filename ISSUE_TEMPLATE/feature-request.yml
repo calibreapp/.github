@@ -2,12 +2,15 @@ name: "\U0001F4A1 Feature Request"
 description: "Have an idea how to make this project better? We’re all ears!"
 title: "[Feature Request] Feature description"
 labels: enhancement
-assignees: ''
 body:
   - type: markdown
     attributes:
       value: |
-        👋🏻 Hi there! This template will help you file a complete feature request for this project, so one of the project maintainers can triage and respond to it promptly. Please fill relevant sections below. Thank you for helping us improve this project! ⚡️
+        👋🏻 Hi there! This template will help you file a complete feature request, so one of the project maintainers can triage and respond to it promptly. 
+  - type: markdown
+    attributes:
+      value: | 
+        Please fill relevant sections below. Thank you for helping us improve this project! ⚡️
   - type: textarea
     id: problem
     attributes:
@@ -28,15 +31,15 @@ body:
       label: Are you willing to work on implementing this solution?
       description: 
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: textarea
     id: alternative-solution
     attributes:
       label: Describe alternatives you’ve considered
-      description: A clear and concise description of any alternative solutions or features you’ve considered
+      description: A clear and concise description of any alternative solutions or features you’ve considered.
   - type: textarea
     id: additional-context
     attributes:
@@ -46,7 +49,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/calibreapp/.github/blob/main/CODE_OF_CONDUCT.md)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/calibreapp/.github/blob/main/CODE_OF_CONDUCT.md).
       options:
         - label: I agree to follow this project’s Code of Conduct
           required: true

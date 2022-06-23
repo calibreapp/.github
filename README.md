@@ -35,12 +35,12 @@ We use pull requests to introduce changes in all of our projects. We’ve set up
 🖇 [Learn more about `PULL_REQUEST_TEMPLATES`](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates#pull-request-templates)
 
 ## Issue Templates
-We use GitHub’s issue tracking in our open source projects. We’ve set up two templates in `ISSUE_TEMPLATE` folder to make creating issues (`--bug-report.md`) and feature requests (`--feature-request.md`) easier. When someone opens a new issue, they will be able to choose the option that feels right:
+We use GitHub’s issue tracking in our open source projects. We’ve set up two templates using [issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms) (in beta) in `ISSUE_TEMPLATE` folder to make creating issues (`bug-report.yml`) and feature requests (`feature-request.yml`) easier. When someone opens a new issue, they will be able to choose the option that feels right:
 
 ![](issue-template-example.png)
 *An example of issue templates in action in our React Live Chat Loader repository ([see demo](https://github.com/calibreapp/react-live-chat-loader/issues/new/choose)).*
 
-When working with issue templates, you might want to consider replacing instances of `your project` with the project name and add any relevant details that aren’t covered by the defaults. **All of our open source repositories should have issue templates.**
+When working with issue templates, you might want to consider adding any relevant details that aren’t covered by the defaults. **All of our open source repositories should have issue templates.**
 
 🖇 [Learn more about `ISSUE_TEMPLATES`](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates#issue-templates)
 
