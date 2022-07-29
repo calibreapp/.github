@@ -2,6 +2,9 @@
 
 > Remember to [set your PR as draft](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests) when you’re actively working on it. Switch to ready for review once you’re ready for feedback and select relevant teammates. 🥳
 
+> **Tip**
+> [Use Emoji to highlight](https://gist.github.com/parmentf/035de27d6ed1dce0b36a) the type of changes your PR is introducing. 
+
 ***
 
 ## What does this PR introduce?
