@@ -16,7 +16,7 @@
 
 > ℹ️ We track work in several places depending on its type. For editorial and copy changes, reference the Notion document. For development work, make sure to [link this Pull Request to a relevant Linear issue](https://linear.app/docs/github#link-prs).
 > * **example:** [Release Notes: March](/)
-> * **example:** fixes CAL-44
+> * **example:** fixes CAL-XXX
 
 ## Preview
 
